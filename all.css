@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://www.w3schools.com/w3css/4/w3.css');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
+@import url('https://www.w3schools.com/lib/w3-theme-pink.css');
+  
+body,h1,h2,h3,h4,h5 {
+    font-family: "Raleway", sans-serif
+  }
+.w3-quarter img{
+  margin-bottom: -6px; 
+  cursor: pointer}
+.w3-quarter img:hover{
+  opacity: 0.6;
+   transition: 0.3s}
